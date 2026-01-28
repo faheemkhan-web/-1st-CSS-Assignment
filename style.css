@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.image{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 650px;
+}
+.uper{
+    display: flex;
+    justify-content: center;
+}
+h1{
+   text-align: center; 
+}
+
+.sec_1{
+    width: 520px;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-bottom: 15px;
+}
